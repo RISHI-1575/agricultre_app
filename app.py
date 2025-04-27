@@ -1,4 +1,3 @@
-
 import streamlit as st
 from utils.authentication import authenticate_user
 from utils.home import home_page
