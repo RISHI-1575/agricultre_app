@@ -1,1 +1,10 @@
-
+month,crop_type,crop,price_per_kg
+2023-01,Vegetable,Tomato,20
+2023-02,Vegetable,Tomato,25
+2023-03,Vegetable,Tomato,22
+2023-04,Vegetable,Potato,15
+2023-05,Vegetable,Potato,18
+2023-06,Fruit,Apple,50
+2023-07,Fruit,Apple,55
+2023-08,Fruit,Mango,40
+2023-09,Fruit,Mango,45
