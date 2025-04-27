@@ -1,1 +1,7 @@
-
+land_size,crop_type,crop,demand,predicted_price,profit_per_acre
+1,Vegetable,Tomato,High,25,5000
+1,Vegetable,Potato,Medium,18,4000
+2,Fruit,Apple,High,55,10000
+2,Fruit,Mango,Medium,45,8000
+5,Fruit,Apple,High,55,25000
+5,Fruit,Mango,Medium,45,20000s
